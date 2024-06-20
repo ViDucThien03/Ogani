@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\OganiAdmin.csproj": {}
+    "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\OganiAdmin.csproj": {}
   },
   "projects": {
-    "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\OganiAdmin.csproj": {
+    "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\OganiAdmin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\OganiAdmin.csproj",
+        "projectUniqueName": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\OganiAdmin.csproj",
         "projectName": "OganiAdmin",
-        "projectPath": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\OganiAdmin.csproj",
-        "packagesPath": "C:\\Users\\ADMIN KH\\.nuget\\packages\\",
-        "outputPath": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\obj\\",
+        "projectPath": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\OganiAdmin.csproj",
+        "packagesPath": "C:\\Users\\vithi\\.nuget\\packages\\",
+        "outputPath": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ADMIN KH\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\vithi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,6 +46,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.102.2, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"

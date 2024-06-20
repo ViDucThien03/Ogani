@@ -11,6 +11,14 @@ public partial class Shipment
 
     public string? ShipAddress { get; set; }
 
+    public string? ShipPhone { get; set; }
+
+    public string? ShipNote { get; set; }
+
+    public decimal? ShipPrice { get; set; }
+
+    public string? ShipMethod { get; set; }
+
     public string? ShipState { get; set; }
 
     public string? ShipCode { get; set; }

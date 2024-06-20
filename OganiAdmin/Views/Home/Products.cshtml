@@ -8,78 +8,87 @@
     Layout = "~/Views/Shared/_LayoutOgani.cshtml";
 }
 
-<h1>Products</h1>
+<div class="col-sm-12 col-xl-12">
+    <div class="bg-light rounded h-100 p-4 vh-100">
+        <h3 class="mb-4">Products</h3>
+        <div class="d-flex justify-content-between">
+            <a asp-action="InsertProduct" class="btn btn-primary">+ Add new product</a>
+            <div>
+                <a asp-action="ShowBestSeller" asp-controller="Orders" asp-route-topN="3" class="btn btn-primary">Best Seller Products</a>
+                <a asp-action="ShowPoorlySeller" asp-controller="Orders" asp-route-topN="3" class="btn btn-primary">Poorly Seller Products</a>
+            </div>
+        </div>
+        <p class="text-danger my-2">@TempData["Message"]</p>
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Product Name</th>
+                    <th scope="col">Describe</th>
+                    <th scope="col">Price</th>
+                    <th scope="col">Quantity</th>
+                    <th scope="col">Sell Quantity</th>
+                    <th scope="col">ProductExp</th>
+                    <th scope="col">Image</th>
+                    <th scope="col">ProductAdd</th>
+                    <th scope="col">Category ID</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductDesc)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductPrice)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductQuantity)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.SellProduct)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductExp)
+                        </td>
+                        <td>
+                            <img src="~/assets/img/@Html.DisplayFor(modelItem => item.ProductImg)" width="64" height="64" />
 
-<p>
-    <a asp-action="InsertProduct" class="btn btn-primary">+ Add new product</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th scope="col">ID</th>
-            <th scope="col">Product Name</th>
-            <th scope="col">Describe</th>
-            <th scope="col">Price</th>
-            <th scope="col">Quantity</th>
-            <th scope="col">Sell Quantity</th>
-            <th scope="col">ProductExp</th>
-            <th scope="col">Image</th>
-            <th scope="col">ProductAdd</th>
-            <th scope="col">Category ID</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-        @foreach (var item in Model)
-        {
-            <tr>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ProductId)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ProductName)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ProductDesc)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ProductPrice)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ProductQuantity)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.SellProduct)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ProductExp)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ProductImg)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.ProductAdd)
-                </td>
-                <td>
-                    @Html.DisplayFor(modelItem => item.CateId)
-                </td>
-                <td>
-                    <a asp-action="EditProduct" asp-route-ProductID="@item.ProductId" class="me-4"><i class="fa-solid fa-arrows-rotate"></i></a>
-                    <a asp-action="DeleteProduct" asp-route-ProductID="@item.ProductId"><i class="fa-solid fa-trash-can" style="width: 24px; height: 24px"></i></a>
-                </td>
-            </tr>
-        }
-    </tbody>
-</table>
-<div class=" col-6 text-center">
-    <nav aria-label="Page navigation example ">
-        <ul class="pagination justify-content-center">
-            @Html.PagedListPager(Model, page => Url.Action("Products", new { page = page }),
-                     new PagedListRenderOptions
-            {
-                LiElementClasses = new string[] { "page-item" },
-                PageClasses = new string[] { "page-link" }
-            })
-        </ul>
-    </nav>
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.ProductAdd)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CateId)
+                        </td>
+                        <td>
+                            <a asp-action="EditProduct" asp-route-ProductID="@item.ProductId" class="me-4"><i class="fa-solid fa-arrows-rotate"></i></a>
+                            <a asp-action="DeleteProduct" asp-route-ProductID="@item.ProductId"><i class="fa-solid fa-trash-can" style="width: 24px; height: 24px"></i></a>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class=" col-12 text-center">
+            <nav aria-label="Page navigation example ">
+                <ul class="pagination justify-content-center">
+                    @Html.PagedListPager(Model, page => Url.Action("Products", new { page = page }),
+                             new PagedListRenderOptions
+                    {
+                        LiElementClasses = new string[] { "page-item" },
+                        PageClasses = new string[] { "page-link" }
+                    })
+                </ul>
+            </nav>
+        </div>
+    </div>
 </div>

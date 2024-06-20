@@ -1,0 +1,56 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    Layout = "~/Views/Shared/_LayoutOgani.cshtml";
+    var order = ViewData["Order"] as OganiAdmin.Models.Order;
+    var orderItems = ViewData["OrderItems"] as IEnumerable<dynamic>;
+}
+@model List<OganiAdmin.Models.OrderItem>
+
+<div class="receipt bg-light vh-100">
+    <div class="text-center">
+        <h3>Ogani</h3>
+    </div>
+    <div class="w-100 d-flex justify-content-center gap-4">
+        <div>
+            <p>Ngày: @order?.OrderDate</p>
+            <p>Ship Method: @order?.Ship?.ShipMethod</p>
+        </div>
+        <div>
+            <p>Số: @order?.OrderId</p>
+            <p>Payment method: @order?.Payment?.PaymentMethod</p>
+        </div>
+    </div>
+    <div class="text-center"><span>Address: @order?.Ship?.ShipAddress</span></div>
+    <div class="text-center"><span>Phone: @order?.Ship?.ShipPhone</span></div>
+    <div class="text-center"><span>Note: @order?.Ship?.ShipNote</span></div>
+    <div class="d-flex justify-content-center">
+        <table class="table w-50">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Order Item Quantity</th>
+                    <th>Product Price</th>
+                    <th>Total Price</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in orderItems)
+                {
+                    <tr>
+                        <td>@item?.Product?.ProductName</td>
+                        <td>@item?.OrderItemQuantity</td>
+                        <td>@item?.OrderItemPrice</td>
+                        <td>@(item?.OrderItemQuantity * item?.OrderItemPrice)</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="total d-flex justify-content-end w-75">
+        <span class="fs-3 font-weight-bold ">Total Bill: @order?.OrderTotalprice</span>
+    </div>
+    <div class="footer">
+    </div>
+</div>

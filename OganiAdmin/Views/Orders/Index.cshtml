@@ -7,10 +7,8 @@
 @model X.PagedList.IPagedList<OganiAdmin.Models.Order>
 
 <div class="col-sm-12 col-xl-12">
-    <div class="bg-light rounded h-100 p-4">
-        <h6 class="mb-4">Orders</h6>
-        <a asp-action="ShowBestSeller" asp-controller="Orders" asp-route-topN="3" class="btn btn-primary">Best Seller Products</a>
-        <a asp-action="ShowPoorlySeller" asp-controller="Orders" asp-route-topN="3" class="btn btn-primary">Poorly Seller Products</a>
+    <div class="bg-light rounded h-100 p-4 vh-100">
+        <h3 class="mb-4">Orders</h3>
         <table class="table table-striped">
             <thead>
                 <tr>
@@ -37,9 +35,9 @@
                                 <select name="newState" class="form-select" aria-label="Default select example" onchange="this.form.submit()">
                                    
                                     <option selected>@item.Ship?.ShipState</option>
-                                    @if (@item.Ship?.ShipState != "Delevering")
+                                    @if (@item.Ship?.ShipState != "Delivering")
                                     {
-                                        <option value="Delevering">Delevering</option>
+                                        <option value="Delivering">Delivering</option>
                                     }
 
                                     @if (@item.Ship?.ShipState != "Fulfilled")
@@ -62,6 +60,9 @@
                         
                         <td>
                            @item.Payment?.PaymentMethod
+                        </td>
+                        <td>
+                            <a asp-action="OrderDetails" asp-controller="Orders" asp-route-orderId="@item.OrderId" class="text-primary">Order detail</a>
                         </td>
                     </tr>
                 }

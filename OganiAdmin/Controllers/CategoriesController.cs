@@ -36,7 +36,7 @@ namespace OganiAdmin.Controllers
 
             if (ModelState.IsValid)
             {
-                TempData["Message"] = "Thêm thành công!";
+                TempData["Message"] = "Added successfully!";
                 data.Categories.Add(category);
                 data.SaveChanges();
                 return RedirectToAction("Index");

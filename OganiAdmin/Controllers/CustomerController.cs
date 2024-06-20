@@ -1,5 +1,7 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DocumentFormat.OpenXml.Office2016.Drawing.ChartDrawing;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using NuGet.ProjectModel;
 using OganiAdmin.Models;
@@ -98,12 +100,27 @@ namespace OganiAdmin.Controllers
             var customer = data.Customers.Find(CusId);
             if (customer == null)
             {
-                TempData["Message"] = "Xóa không thành công!";
+                TempData["Message"] = "Delete failed! No customer found.";
                 return RedirectToAction("Customers");
             }
-            data.Customers.Remove(customer);
-            data.SaveChanges();
-            TempData["Message"] = "Xóa thành công!";
+            try
+            {
+                data.Customers.Remove(customer);
+                data.SaveChanges();
+                TempData["Message"] = "Delete Successfully!";
+            }
+            catch (DbUpdateException ex)
+            {
+
+                if (ex.InnerException is SqlException sqlEx && sqlEx.Number == 547)
+                {
+                    TempData["Message"] = "This customer cannot be deleted because there are related orders.";
+                }
+                else
+                {
+                    TempData["Message"] = "Delete failed! Error! An error occurred. Please try again later.";
+                }
+            }
             return RedirectToAction("Customers");
         }
     }

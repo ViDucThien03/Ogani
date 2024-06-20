@@ -1,687 +1,751 @@
 {
   "Files": [
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OganiAdmin.bundle.scp.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OganiAdmin.bundle.scp.css",
       "PackagePath": "staticwebassets\\OganiAdmin.bundle.scp.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\css\\style.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\testimonial-1.jpg",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\a1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\a1.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-10.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-11.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-12.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-13.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-14.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-15.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-16.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-16.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-2.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-3.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-4.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-5.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-6.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-7.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-8.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\product-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\product-9.jpg"
+    },
+    {
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\testimonial-1.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.jpg"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\testimonial-2.jpg",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\testimonial-2.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.jpg"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\user.jpg",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\img\\user.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\user.jpg"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\js\\main.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\js\\main.js",
       "PackagePath": "staticwebassets\\assets\\js\\main.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\chart\\chart.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\chart\\chart.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\chart\\chart.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\easing\\easing.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\easing\\easing.js",
       "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\easing\\easing.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\easing\\easing.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\easing\\easing.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\LICENSE",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.js",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\owlcarousel\\owl.carousel.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\js\\moment.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\waypoints\\links.php",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\waypoints\\links.php",
       "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\links.php"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\lib\\waypoints\\waypoints.min.js",
       "PackagePath": "staticwebassets\\assets\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_accordion.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_badge.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_button-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_card.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_carousel.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_close.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_containers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_dropdown.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_functions.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_helpers.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_images.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_mixins.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_modal.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_nav.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_navbar.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_popover.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_progress.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_reboot.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_root.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_spinners.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_toasts.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_tooltip.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_transitions.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_type.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\_variables.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\bootstrap.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "PackagePath": "staticwebassets\\assets\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\css\\site.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\favicon.ico",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\js\\site.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

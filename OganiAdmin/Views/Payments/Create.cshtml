@@ -1,0 +1,48 @@
+﻿@model OganiAdmin.Models.Payment
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_LayoutOgani.cshtml";
+}
+
+<div class="col-12 ">
+    <div class="bg-light rounded h-100 p-4 vh-100">
+        <div class="row ml-3">
+        <h3 class="mb-4">Create New Payment</h3>
+        <div class="col-md-4">
+                <form asp-action="Create" class="row gy-2">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="PaymentDate" class="control-label">Payment Date</label>
+                    <input asp-for="PaymentDate" class="form-control" />
+                    <span asp-validation-for="PaymentDate" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PaymentMethod" class="control-label">Payment Method</label>
+                    <input asp-for="PaymentMethod" class="form-control" />
+                    <span asp-validation-for="PaymentMethod" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="PaymentAmount" class="control-label">Payment Amount</label>
+                    <input asp-for="PaymentAmount" class="form-control" />
+                    <span asp-validation-for="PaymentAmount" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CusId" class="control-label">Customer ID</label>
+                    <select asp-for="CusId" class="form-control" asp-items="ViewBag.CusId"></select>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Create" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+            <div>
+                <a asp-action="Index">Back to List</a>
+            </div>
+    </div>
+
+    
+     </div>
+</div>
+<
+

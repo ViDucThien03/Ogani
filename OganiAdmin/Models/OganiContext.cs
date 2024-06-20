@@ -6,7 +6,6 @@ namespace OganiAdmin.Models;
 
 public partial class OganiContext : DbContext
 {
-    
     public OganiContext()
     {
     }
@@ -36,13 +35,13 @@ public partial class OganiContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 #warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Data Source=DESKTOP-UCKKC5B\\SQLEXPRESS02;Initial Catalog=Ogani;Integrated Security=True;Encrypt=True");
+        => optionsBuilder.UseSqlServer("Data Source=VIDUCTHIEN\\SQLEXPRESS;Initial Catalog=Ogani;Integrated Security=True;Connect Timeout=30;Encrypt=True;Trust Server Certificate=True;Application Intent=ReadWrite;Multi Subnet Failover=False");
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<Cart>(entity =>
         {
-            entity.HasKey(e => new { e.CartId, e.CusId }).HasName("PK__Cart__B071FE392E74AC4E");
+            entity.HasKey(e => new { e.CartId, e.CusId }).HasName("PK__Cart__B071FE39B5B7B285");
 
             entity.ToTable("Cart");
 
@@ -56,16 +55,16 @@ public partial class OganiContext : DbContext
             entity.HasOne(d => d.Cus).WithMany(p => p.Carts)
                 .HasForeignKey(d => d.CusId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Cart__cus_id__5441852A");
+                .HasConstraintName("FK__Cart__cus_id__4222D4EF");
 
             entity.HasOne(d => d.Product).WithMany(p => p.Carts)
                 .HasForeignKey(d => d.ProductId)
-                .HasConstraintName("FK__Cart__product_id__5535A963");
+                .HasConstraintName("FK__Cart__product_id__4316F928");
         });
 
         modelBuilder.Entity<Category>(entity =>
         {
-            entity.HasKey(e => e.CateId).HasName("PK__Category__34EAD173CF361BE7");
+            entity.HasKey(e => e.CateId).HasName("PK__Category__34EAD173DC966165");
 
             entity.ToTable("Category");
 
@@ -78,7 +77,7 @@ public partial class OganiContext : DbContext
 
         modelBuilder.Entity<Customer>(entity =>
         {
-            entity.HasKey(e => e.CusId).HasName("PK__Customer__E84D41E805813D74");
+            entity.HasKey(e => e.CusId).HasName("PK__Customer__E84D41E8B135EF7F");
 
             entity.ToTable("Customer");
 
@@ -107,7 +106,7 @@ public partial class OganiContext : DbContext
 
         modelBuilder.Entity<Order>(entity =>
         {
-            entity.HasKey(e => e.OrderId).HasName("PK__Orders__46596229E6BE27BA");
+            entity.HasKey(e => e.OrderId).HasName("PK__Orders__46596229A4F2E0B8");
 
             entity.Property(e => e.OrderId).HasColumnName("order_id");
             entity.Property(e => e.CusId).HasColumnName("cus_id");
@@ -125,20 +124,20 @@ public partial class OganiContext : DbContext
 
             entity.HasOne(d => d.Cus).WithMany(p => p.Orders)
                 .HasForeignKey(d => d.CusId)
-                .HasConstraintName("FK__Orders__cus_id__656C112C");
+                .HasConstraintName("FK__Orders__cus_id__49C3F6B7");
 
             entity.HasOne(d => d.Payment).WithMany(p => p.Orders)
                 .HasForeignKey(d => d.PaymentId)
-                .HasConstraintName("FK__Orders__payment___66603565");
+                .HasConstraintName("FK__Orders__payment___4AB81AF0");
 
             entity.HasOne(d => d.Ship).WithMany(p => p.Orders)
                 .HasForeignKey(d => d.ShipId)
-                .HasConstraintName("FK__Orders__ship_id__6754599E");
+                .HasConstraintName("FK__Orders__ship_id__4BAC3F29");
         });
 
         modelBuilder.Entity<OrderItem>(entity =>
         {
-            entity.HasKey(e => new { e.OrderItemId, e.ProductId }).HasName("PK__Order_It__731491632DA5276A");
+            entity.HasKey(e => new { e.OrderItemId, e.ProductId }).HasName("PK__Order_It__73149163088C9910");
 
             entity.ToTable("Order_Item");
 
@@ -157,17 +156,17 @@ public partial class OganiContext : DbContext
 
             entity.HasOne(d => d.Order).WithMany(p => p.OrderItems)
                 .HasForeignKey(d => d.OrderId)
-                .HasConstraintName("FK__Order_Ite__order__6C190EBB");
+                .HasConstraintName("FK__Order_Ite__order__5070F446");
 
             entity.HasOne(d => d.Product).WithMany(p => p.OrderItems)
                 .HasForeignKey(d => d.ProductId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Order_Ite__produ__6B24EA82");
+                .HasConstraintName("FK__Order_Ite__produ__4F7CD00D");
         });
 
         modelBuilder.Entity<Payment>(entity =>
         {
-            entity.HasKey(e => e.PaymentId).HasName("PK__Payment__ED1FC9EA0AB503DD");
+            entity.HasKey(e => e.PaymentId).HasName("PK__Payment__ED1FC9EA25FD3BE3");
 
             entity.ToTable("Payment");
 
@@ -186,12 +185,12 @@ public partial class OganiContext : DbContext
 
             entity.HasOne(d => d.Cus).WithMany(p => p.Payments)
                 .HasForeignKey(d => d.CusId)
-                .HasConstraintName("FK__Payment__cus_id__5812160E");
+                .HasConstraintName("FK__Payment__cus_id__45F365D3");
         });
 
         modelBuilder.Entity<Product>(entity =>
         {
-            entity.HasKey(e => e.ProductId).HasName("PK__Product__47027DF5DF16477C");
+            entity.HasKey(e => e.ProductId).HasName("PK__Product__47027DF5BA3F7425");
 
             entity.ToTable("Product");
 
@@ -216,15 +215,16 @@ public partial class OganiContext : DbContext
                 .HasColumnType("decimal(10, 2)")
                 .HasColumnName("product_price");
             entity.Property(e => e.ProductQuantity).HasColumnName("product_quantity");
-            entity.Property(e => e.SellProduct).HasColumnName("sell_product");
+            entity.Property(e => e.SellProduct).HasColumnName("product_sellquantity");
+
             entity.HasOne(d => d.Cate).WithMany(p => p.Products)
                 .HasForeignKey(d => d.CateId)
-                .HasConstraintName("FK__Product__cate_id__4CA06362");
+                .HasConstraintName("FK__Product__cate_id__3A81B327");
         });
 
         modelBuilder.Entity<Shipment>(entity =>
         {
-            entity.HasKey(e => e.ShipId).HasName("PK__Shipment__CCF471DA9CB66A5F");
+            entity.HasKey(e => e.ShipId).HasName("PK__Shipment__CCF471DAC794C4BA");
 
             entity.ToTable("Shipment");
 
@@ -241,6 +241,21 @@ public partial class OganiContext : DbContext
             entity.Property(e => e.ShipDate)
                 .HasColumnType("datetime")
                 .HasColumnName("ship_date");
+            entity.Property(e => e.ShipMethod)
+                .HasMaxLength(100)
+                .IsUnicode(false)
+                .HasColumnName("ship_method");
+            entity.Property(e => e.ShipNote)
+                .HasMaxLength(255)
+                .IsUnicode(false)
+                .HasColumnName("ship_note");
+            entity.Property(e => e.ShipPhone)
+                .HasMaxLength(11)
+                .IsUnicode(false)
+                .HasColumnName("ship_phone");
+            entity.Property(e => e.ShipPrice)
+                .HasColumnType("decimal(10, 2)")
+                .HasColumnName("ship_price");
             entity.Property(e => e.ShipState)
                 .HasMaxLength(20)
                 .IsUnicode(false)
@@ -248,12 +263,12 @@ public partial class OganiContext : DbContext
 
             entity.HasOne(d => d.Cus).WithMany(p => p.Shipments)
                 .HasForeignKey(d => d.CusId)
-                .HasConstraintName("FK__Shipment__cus_id__5165187F");
+                .HasConstraintName("FK__Shipment__cus_id__3F466844");
         });
 
         modelBuilder.Entity<Wishlist>(entity =>
         {
-            entity.HasKey(e => new { e.WishlistId, e.CusId }).HasName("PK__Wishlist__FFD585508462EFE1");
+            entity.HasKey(e => new { e.WishlistId, e.CusId }).HasName("PK__Wishlist__FFD5855012DC846C");
 
             entity.ToTable("Wishlist");
 
@@ -266,11 +281,11 @@ public partial class OganiContext : DbContext
             entity.HasOne(d => d.Cus).WithMany(p => p.Wishlists)
                 .HasForeignKey(d => d.CusId)
                 .OnDelete(DeleteBehavior.ClientSetNull)
-                .HasConstraintName("FK__Wishlist__cus_id__5FB337D6");
+                .HasConstraintName("FK__Wishlist__cus_id__534D60F1");
 
             entity.HasOne(d => d.Product).WithMany(p => p.Wishlists)
                 .HasForeignKey(d => d.ProductId)
-                .HasConstraintName("FK__Wishlist__produc__60A75C0F");
+                .HasConstraintName("FK__Wishlist__produc__5441852A");
         });
 
         OnModelCreatingPartial(modelBuilder);

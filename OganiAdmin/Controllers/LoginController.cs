@@ -23,7 +23,7 @@ namespace OganiAdmin.Controllers
                 if (u != null ) 
                 {
                     HttpContext.Session.SetString("UserName", cus.CusEmail.ToString());
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction("Index", "Categories");
                 }
                 else
                 {

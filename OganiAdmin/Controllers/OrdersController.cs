@@ -47,5 +47,18 @@ namespace OganiAdmin.Controllers
                                            .ToList();
             return View(bestSellers);
         }
+        public async Task<IActionResult> OrderDetails(int orderId)
+        {
+            var order = await data.Orders.Include(s => s.Ship)
+                                  .Include(p => p.Payment)
+                                  .Include(c => c.Cus)
+                                  .FirstOrDefaultAsync(o => o.OrderId == orderId);
+            var orderItems = await data.OrderItems.Include(p => p.Product)
+                                                  .Where(o => o.OrderId == orderId)
+                                                  .ToListAsync();
+            ViewData["Order"] = order;
+            ViewData["OrderItems"] = orderItems;
+            return View();
+        }
     }
 }

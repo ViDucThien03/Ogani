@@ -8,65 +8,68 @@
     Layout = "~/Views/Shared/_LayoutOgani.cshtml";
 }
 
-<h1>Customers</h1>
-
-<p>
-    <a asp-action="InsertCustomer" class="btn btn-primary">+ Add new customer</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th scope="col">ID</th>
-            <th scope="col">Name</th>
-            <th scope="col">Email</th>
-            <th scope="col">Password</th>
-            <th scope="col">Address</th>
-            <th scope="col">Phone</th>
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.CusId)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CusName)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CusEmail)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CusPassword)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CusAddress)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.CusPhone)
-            </td>
-            <td>
-                    <a asp-action="EditCustomer" asp-route-CusId="@item.CusId" class="me-4">
-                        <i class="fa-solid fa-arrows-rotate"></i>
-                    </a>
-                    <a asp-action="DeleteCustomer" asp-route-CusId="@item.CusId">
-                        <i class="fa-solid fa-trash-can" style="width: 24px; height: 24px"></i>
-                    </a>
-        </tr>
-}
-    </tbody>
-</table>
-<div class=" col-6 text-center">
-    <nav aria-label="Page navigation example ">
-        <ul class="pagination justify-content-center">
-            @Html.PagedListPager(Model, page => Url.Action("Customers", new { page = page }),
-                     new PagedListRenderOptions
-            {
-                LiElementClasses = new string[] { "page-item" },
-                PageClasses = new string[] { "page-link" }
-            })
-        </ul>
-    </nav>
+<div class="col-sm-12 col-xl-12">
+    <div class="bg-light rounded h-100 p-4 vh-100">
+        <h3 class="mb-4">Customers</h3>
+        <a asp-action="InsertCustomer" class="btn btn-primary">+ Add new customer</a>
+        <p class="text-danger my-2">@TempData["Message"]</p>
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Name</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Password</th>
+                    <th scope="col">Address</th>
+                    <th scope="col">Phone</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CusId)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CusName)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CusEmail)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CusPassword)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CusAddress)
+                        </td>
+                        <td>
+                            @Html.DisplayFor(modelItem => item.CusPhone)
+                        </td>
+                        <td>
+                            <a asp-action="EditCustomer" asp-route-CusId="@item.CusId" class="me-4">
+                                <i class="fa-solid fa-arrows-rotate"></i>
+                            </a>
+                            <a asp-action="DeleteCustomer" asp-route-CusId="@item.CusId">
+                                <i class="fa-solid fa-trash-can" style="width: 24px; height: 24px"></i>
+                            </a>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class=" col-12 text-center">
+            <nav aria-label="Page navigation example ">
+                <ul class="pagination justify-content-center">
+                    @Html.PagedListPager(Model, page => Url.Action("Customers", new { page = page }),
+                             new PagedListRenderOptions
+                    {
+                        LiElementClasses = new string[] { "page-item" },
+                        PageClasses = new string[] { "page-link" }
+                    })
+                </ul>
+            </nav>
+        </div>
+    </div>
 </div>
 

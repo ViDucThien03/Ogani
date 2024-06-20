@@ -1,46 +1,90 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\",
+  "WorkspaceRootPath": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\views\\customer\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\customer\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\views\\customer\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\customer\\editcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\views\\home\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\home\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\views\\home\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\home\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\home\\insertproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|f:\\nam3_2\\ptud\\admin\\oganiadmin\\oganiadmin\\views\\customer\\insertcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\customer\\insertcustomer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\controllers\\reportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\orders\\showpoorlyseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\orders\\showpoorlyseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\customer\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\customer\\customers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\report\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\home\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\orders\\showbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\orders\\showbestseller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\shipments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\shipments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\shipments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\shipments\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\payments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\payments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\shipments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\shipments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\payments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\orders\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\orders\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|d:\\ptudtmdt\\ogani\\oganiadmin\\oganiadmin\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{48DCF9AD-0F2B-40C3-9AA8-B854C2F4E6D7}|OganiAdmin\\OganiAdmin.csproj|solutionrelative:oganiadmin\\views\\shared\\_layoutogani.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,133 +94,307 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 12,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerController.cs",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Controllers\\CustomerController.cs",
-              "RelativeDocumentMoniker": "OganiAdmin\\Controllers\\CustomerController.cs",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Controllers\\CustomerController.cs",
-              "RelativeToolTip": "OganiAdmin\\Controllers\\CustomerController.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB8AAABWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T05:49:18.871Z",
-              "IsPinned": true
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Customers.cshtml",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Customer\\Customers.cshtml",
-              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Customer\\Customers.cshtml",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Customer\\Customers.cshtml",
-              "RelativeToolTip": "OganiAdmin\\Views\\Customer\\Customers.cshtml",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T10:09:43.414Z"
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "OganiAdmin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "OganiAdmin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T23:09:19.519Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Products.cshtml",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Home\\Products.cshtml",
-              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Home\\Products.cshtml",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Home\\Products.cshtml",
-              "RelativeToolTip": "OganiAdmin\\Views\\Home\\Products.cshtml",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAwEUAAAARAAAA",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-13T14:56:41.969Z"
+              "WhenOpened": "2024-06-20T23:08:36.229Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "OganiAdmin\\Models\\Customer.cs",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Models\\Customer.cs",
-              "RelativeToolTip": "OganiAdmin\\Models\\Customer.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAkwAkAAAATAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-14T19:05:45.891Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "OganiAdmin\\Controllers\\HomeController.cs",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "OganiAdmin\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAABYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-09T04:04:27.559Z",
+              "DocumentIndex": 1,
+              "Title": "InsertProduct.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Home\\InsertProduct.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Home\\InsertProduct.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Home\\InsertProduct.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Home\\InsertProduct.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAIwEgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-20T23:01:54.013Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "EditCustomer.cshtml",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Customer\\EditCustomer.cshtml",
-              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Customer\\EditCustomer.cshtml",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Customer\\EditCustomer.cshtml",
-              "RelativeToolTip": "OganiAdmin\\Views\\Customer\\EditCustomer.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T14:50:12.818Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_LayoutOgani.cshtml",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Shared\\_LayoutOgani.cshtml",
-              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Shared\\_LayoutOgani.cshtml",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Shared\\_LayoutOgani.cshtml",
-              "RelativeToolTip": "OganiAdmin\\Views\\Shared\\_LayoutOgani.cshtml",
-              "ViewState": "AQIAAEUAAAAAAAAAAAAUwFEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T19:58:56.547Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "InsertProduct.cshtml",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Home\\InsertProduct.cshtml",
-              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Home\\InsertProduct.cshtml",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Home\\InsertProduct.cshtml",
-              "RelativeToolTip": "OganiAdmin\\Views\\Home\\InsertProduct.cshtml",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAEMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T14:38:14.152Z"
+              "Title": "ReportController.cs",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\ReportController.cs",
+              "RelativeDocumentMoniker": "OganiAdmin\\Controllers\\ReportController.cs",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\ReportController.cs",
+              "RelativeToolTip": "OganiAdmin\\Controllers\\ReportController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:50:17.444Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "EditProduct.cshtml",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Home\\EditProduct.cshtml",
-              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Home\\EditProduct.cshtml",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Home\\EditProduct.cshtml",
-              "RelativeToolTip": "OganiAdmin\\Views\\Home\\EditProduct.cshtml",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Report\\Index.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Report\\Index.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Report\\Index.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Report\\Index.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAYwBIAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T14:49:28.413Z"
+              "WhenOpened": "2024-06-18T05:46:54.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customers.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Customer\\Customers.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Customer\\Customers.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Customer\\Customers.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Customer\\Customers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T05:44:20.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "OganiAdmin\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "OganiAdmin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAgwEoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T05:38:39.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShowBestSeller.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Orders\\ShowBestSeller.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Orders\\ShowBestSeller.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Orders\\ShowBestSeller.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Orders\\ShowBestSeller.cshtml",
+              "ViewState": "AQIAABYAAAAAAAAAAAAYwDMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T05:32:25.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShowPoorlySeller.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Orders\\ShowPoorlySeller.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Orders\\ShowPoorlySeller.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Orders\\ShowPoorlySeller.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Orders\\ShowPoorlySeller.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T05:32:05.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Shipments\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Shipments\\Edit.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Shipments\\Edit.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Shipments\\Edit.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADcAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T05:29:19.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Shipments\\Create.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Shipments\\Create.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Shipments\\Create.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Shipments\\Create.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA0AAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T05:29:08.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Payments\\Create.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Payments\\Create.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Payments\\Create.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Payments\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T09:18:58.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Orders\\Index.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Orders\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACwAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T13:35:39.772Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "InsertCustomer.cshtml",
-              "DocumentMoniker": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Customer\\InsertCustomer.cshtml",
-              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Customer\\InsertCustomer.cshtml",
-              "ToolTip": "F:\\Nam3_2\\PTUD\\Admin\\OganiAdmin\\OganiAdmin\\Views\\Customer\\InsertCustomer.cshtml",
-              "RelativeToolTip": "OganiAdmin\\Views\\Customer\\InsertCustomer.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "OganiAdmin\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "OganiAdmin\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAYwHQAAABrAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T14:08:56.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Home\\Products.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Home\\Products.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Home\\Products.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Home\\Products.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-14T14:37:09.831Z"
+              "WhenOpened": "2024-06-18T05:33:08.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Payments\\Index.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Payments\\Index.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Payments\\Index.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Payments\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAADAAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T08:53:47.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "OganiAdmin\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "OganiAdmin\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAIA9wBQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T13:55:52.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_LayoutOgani.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Shared\\_LayoutOgani.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Shared\\_LayoutOgani.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAEAAAACBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T09:54:16.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Orders\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Orders\\OrderDetails.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Orders\\OrderDetails.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Orders\\OrderDetails.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T14:31:13.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "OganiAdmin\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "OganiAdmin\\Controllers\\PaymentsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABgAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:01:03.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Shipments\\Index.cshtml",
+              "RelativeDocumentMoniker": "OganiAdmin\\Views\\Shipments\\Index.cshtml",
+              "ToolTip": "D:\\PTUDTMDT\\Ogani\\OganiAdmin\\OganiAdmin\\Views\\Shipments\\Index.cshtml",
+              "RelativeToolTip": "OganiAdmin\\Views\\Shipments\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAABQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-18T05:25:22.33Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1144,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1256,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

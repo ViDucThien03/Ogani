@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using Microsoft.Data.SqlClient;
 using Microsoft.EntityFrameworkCore;
 using NuGet.ProjectModel;
 using OganiAdmin.Models;
@@ -102,12 +103,27 @@ namespace OganiAdmin.Controllers
             var product = data.Products.Find(ProductID);
             if (product == null)
             {
-                TempData["Message"] = "Xóa không thành công!";
+                TempData["Message"] = "Delete failed! No product found.";
                 return RedirectToAction("Products");
             }
-            data.Products.Remove(product);
-            data.SaveChanges();
-            TempData["Message"] = "Xóa thành công!";
+            try
+            {
+                data.Products.Remove(product);
+                data.SaveChanges();
+                TempData["Message"] = "Delete Successfully!";
+            }
+            catch (DbUpdateException ex)
+            {
+
+                if (ex.InnerException is SqlException sqlEx && sqlEx.Number == 547)
+                {
+                    TempData["Message"] = "This product cannot be deleted because there are related orders.";
+                }
+                else
+                {
+                    TempData["Message"] = "Delete failed! Error! An error occurred. Please try again later.";
+                }
+            }
             return RedirectToAction("Products");
         }
         public IActionResult Privacy()

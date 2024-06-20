@@ -5,28 +5,31 @@
     Layout = "~/Views/Shared/_LayoutOgani.cshtml";
 }
 
-<h1>Best Sellers</h1>
 
 @if (Model.Any())
 {
     <div class="col-12">
-        
-        <div class="bg-light rounded h-100 p-4">
+        <div class="bg-light rounded h-100 p-4 vh-100">
+        <h1>Best Sellers</h1>
             <div>
                 <a asp-action="ShowBestSeller" asp-route-topN="3" class="btn btn-primary">Top 3</a>
                 <a asp-action="ShowBestSeller" asp-route-topN="5" class="btn btn-primary">Top 5</a>
                 <a asp-action="ShowBestSeller" asp-route-topN="10" class="btn btn-primary">Top 10</a>
             </div>
-            
+
             <div class="table-responsive">
                 <table class="table">
                     <thead>
                         <tr>
                             <th scope="col">ID</th>
-                            <th scope="col">Quantity</th>
-                            <th scope="col">Description</th>
+                            <th scope="col">Product Name</th>
+                            <th scope="col">Describe</th>
                             <th scope="col">Price</th>
+                            <th scope="col">Quantity</th>
                             <th scope="col">Sell Quantity</th>
+                            <th scope="col">ProductExp</th>
+                            <th scope="col">Image</th>
+                            <th scope="col">ProductAdd</th>
                             <th scope="col">Category</th>
                             <th></th>
                         </tr>
@@ -36,14 +39,21 @@
                         {
                             <tr>
                                 <th scope="row">@product.ProductId</th>
-                                <td>@product.ProductQuantity</td>
+                                <td>@product.ProductName</td>
                                 <td>@product.ProductDesc</td>
                                 <td>@product.ProductPrice</td>
+                                <td>@product.ProductQuantity</td>
                                 <td>@product.SellProduct</td>
-                                <td>@product.Cate.CateName</td>
                                 <td>
-                                    <a href="#" class="me-4"><i class="fa-solid fa-arrows-rotate"></i></a>
-                                    <a href="#"><i class="fa-solid fa-trash-can" style="width: 24px; height: 24px"></i></a>
+                                    <img src="~/assets/img/@product.ProductImg" width="64" height="64" />
+                                </td>
+                                <td>@product.ProductExp</td>
+                                <td>@product.ProductAdd</td>
+                                <td>@product?.Cate?.CateName</td>
+
+                                <td>
+                                    <a asp-action="EditProduct" asp-controller="Home" asp-route-ProductID="@product.ProductId" class="me-4"><i class="fa-solid fa-arrows-rotate"></i></a>
+                                    <a asp-action="DeleteProduct" asp-controller="Home" asp-route-ProductID="@product.ProductId"><i class="fa-solid fa-trash-can" style="width: 24px; height: 24px"></i></a>
                                 </td>
                             </tr>
                         }
